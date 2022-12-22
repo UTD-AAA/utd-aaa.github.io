@@ -1,6 +1,6 @@
 # ✨ Overview <img src="https://i.imgur.com/3qRnjL4.png" alt="drawing" style="float:right;width:42px;height:42px;"/>
 
-This website uses [Jekyll] and [RaisinCSS]. The site is designed to make the implementation of updates easy and accessible for developers of various skill levels. This is done to ease the transition between current and future AAA officers.
+This is the official UTD AAA website! It uses [Jekyll] and [RaisinCSS] to make accessibility and updating easier.
 
 ### Contents
 
@@ -20,7 +20,7 @@ Jekyll is a blogging framework used for creating static websites. You create a t
 </details>
 
 <details>
-<summary>What are GitHub pages?</summary>
+<summary>What's GitHub pages?</summary>
 <br>
 A static site hosting service. This is how we’ll be able to host the site for free :)))
 <br>
@@ -39,10 +39,9 @@ Jekyll is installed as a Ruby gem. Ruby is an object-oriented programming langua
 <br>
 <div id="tech-stack"></div>
 
-# 📚 Tech Stack
+# 🥞 Tech Stack
 
-Notes
-
+<img src="https://i.imgur.com/51YihOT.png" alt="tsVisual" style="width:500px;"/>
 
 <br>
 <div id="installation"></div>
@@ -70,7 +69,7 @@ Checkout Jekyll's [Installation guide](https://jekyllrb.com/docs/installation/) 
    * Run ```gem -v```
    * Run ```jekyll -v```
 
-### Notes
+### 📌 Notes
    * Running ```bundle exec jekyll serve``` will now build your project on ```http://localhost:4000/``` in your browser.
    * VSCode also has a helpful extension called **Jekyll Run** that provides a button to launch your project.
    * Versions at the time of making:
@@ -83,7 +82,7 @@ Checkout Jekyll's [Installation guide](https://jekyllrb.com/docs/installation/) 
 <br>
 <div id="resources"></div>
 
-# 📌 Resources
+# 📚 Resources
 
 ### Official Docs
 
