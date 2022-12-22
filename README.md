@@ -43,6 +43,15 @@ Jekyll is installed as a Ruby gem. Ruby is an object-oriented programming langua
 
 <img src="https://i.imgur.com/51YihOT.png" alt="tsVisual" style="width:500px;"/>
 
+
+|     |     |     |     |     |
+|:---:|:---:|:---:|:---:|:---:|
+| Languages | <img src="https://i.imgur.com/znMYAQj.png" alt="drawing" style="width:42px;height:42px;"/><br> Ruby    	| <img src="https://i.imgur.com/7ZpFBVN.png" alt="html" style="width:35px;height:42px;"/> <br> HTML    	| <img src="https://i.imgur.com/XcZjC6l.png" alt="html" style="width:35px;height:42px;"/> <br> CSS       	| <img src="https://i.imgur.com/TyUUxu9.png" alt="html" style="width:35px;height:42px;"/> <br> JavaScript 	|
+| Package Managers<br>and Gems 	| <img src="https://i.imgur.com/JBpXlFq.png" alt="html" style="width:42px;height:42px;"/> <br> RubyGems	| <img src="https://i.imgur.com/1rhXneS.png" alt="html" style="width:42px;height:42px;"/> <br> Bundler 	| <img src="https://i.imgur.com/UucVkhZ.png" alt="html" style="width:28px;height:42px;"/> <br> Jekyll  	|     |
+| Design Tools | <img src="https://i.imgur.com/IecHDMT.png" alt="html" style="width:42px;height:42px;"/> <br> Whimsical 	| <img src="https://i.imgur.com/87C4exy.png" alt="html" style="width:42px;height:42px;"/><br> Sass   | <img src="https://i.imgur.com/j6hS0Kb.png" alt="html" style="width:47px;height:42px;"/> <br> GitKraken 	|                                                                                                                                	|
+|     |     |     |     |     |
+
+
 <br>
 <div id="installation"></div>
 
