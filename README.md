@@ -97,6 +97,7 @@ Checkout Jekyll's [Installation guide](https://jekyllrb.com/docs/installation/) 
 
  - [Jekyll documentation](https://jekyllrb.com/docs/)
  - [RaisinCSS documentation](https://github.com/tretapey/raisincss)
+ - [Bundler install docs](https://bundler.io/v2.3/man/bundle-install.1.html)
 
 [Jekyll]: https://jekyllrb.com/
 [RaisinCSS]: https://github.com/tretapey/raisincss
@@ -112,9 +113,12 @@ Checkout Jekyll's [Installation guide](https://jekyllrb.com/docs/installation/) 
 ### Jekyll Info/Setup
 
 * [Jekyll Basics/Installation](https://www.john-cd.com/cheatsheets/Markup_and_Documentation/Jekyll/#:~:text=Jekyll%20Install%20How%2DTo&text=Bundler%20is%20a%20gem%20that,necessary%20dependencies%20each%20gem%20requires.)
+* [Jekyll Doc Theme 6.0 - Installation Guide](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_install_jekyll_on_windows.html)
+* [Jekyll on Windows 10 - Installation Guide](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/jekyll-install-windows-example-blog-tutorial)
 * [In-Depth Website Walkthrough](https://opensource.com/article/21/9/build-website-jekyll)
 * [Assets (Sass & CoffeeScript)](https://jekyllrb.com/docs/assets/)
 * [Building a Practice Website Video Tutorial ▶️](https://www.youtube.com/watch?v=g6AJ9qPPoyc&ab_channel=SpencerPa)
+
 
 
 ### Sass
